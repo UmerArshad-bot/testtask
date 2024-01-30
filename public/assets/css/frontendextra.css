@@ -1,0 +1,144 @@
+/*//Frontend Login Design*/
+
+/*//Login Button*/
+.mb-4.login-button {
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 18px;
+    width: 20%;
+    height: 30%;
+    color: #e6cdad;
+    margin-left: 80px;
+    /* background-color: lightblue; */
+}
+/*Login Email*/
+input#email {
+    width: 50%;
+    /* align-content: center; */
+    right: auto;
+    margin-top: 15px;
+    margin-left: 75px;
+}
+
+input#password {
+    width: 50%;
+    /* align-content: center; */
+    right: auto;
+    margin-top: 15px;
+    margin-left:75px;
+}
+span.text-gray-900\/70.text-sm.leading-4.px-6.block.password {
+    margin-top: 15px;
+    font-weight: 400;
+    margin-left: 55px;
+    font-size:18px;
+}
+span.text-gray-900\/70.text-sm.leading-4.px-6.block.email {
+    /*margin-top: 35px;*/
+    font-weight: 400;
+    margin-left: 55px;
+
+    font-size:18px;
+}
+h3.text-gray-900.text-3xl.md\:text-\[50px\].leading-\[1\.2\].font-medium.tracking-wide.uppercase.mb-4.login-text {
+    font-size: 35px;
+    margin-left: -155px;
+    color: #000d8b;
+    margin-bottom: -65px;
+}
+.w-full.md\:w-1\/2.p-5.md\:p-8.lg\:p-10 {
+
+    /*background-color: #111827;*/
+    /*background-color:blue;*/
+}
+.w-full.md\:w-1\/2.p-5.md\:p-8.lg\:p-10.relative.md\:form-side {
+    /*background-color: #111827;*/
+    /*background-color: blue;*/
+}
+/*button.bg-blue-550.text-white.uppercase.px-5.py-1\.5.rounded-3xl.hover\:text-blue-550.hover\:bg-white.btn-login {*/
+/*    color: blue;*/
+/*    background-color: white;*/
+/*    font-size: 20px;*/
+/*    !*font-weight: 300;*!*/
+
+/*}*/
+/*a.bg-blue-550.text-white.uppercase.px-5.py-1\.5.rounded-3xl.hover\:text-blue-550.hover\:bg-white {*/
+/*    color: blue;*/
+/*    background-color: white;*/
+/*    font-size: 20px;*/
+/*    font-weight: 300;*/
+/*    */
+/*}*/
+/*.btn-login-user {*/
+/*    padding-left: 2rem;*/
+/*    padding-right: 2rem;*/
+/*    padding-top: 0.375rem;*/
+/*    padding-bottom: 0.375rem;*/
+/*    font-size: 1.125rem;*/
+/*    line-height: 1.75rem;*/
+/*    text-transform: uppercase;*/
+/*    --tw-text-opacity: 1;*/
+/*    !*color: rgba(255, 255, 255, var(--tw-text-opacity));*!*/
+/*    color: blue;*/
+/*    background-color: white;*/
+/*}*/
+.btn-login-user {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-transform: uppercase;
+    --tw-text-opacity: 1;
+    color: blue;
+}
+.btn-login-user {
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    border-radius: 1.5rem;
+    --tw-bg-opacity: 1;
+    /*background-color: rgba(38, 15, 206, var(--tw-bg-opacity));*/
+    background-color: white;
+
+}
+.btn-login-signup {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-transform: uppercase;
+    --tw-text-opacity: 1;
+    color: blue;
+}
+.btn-login-signup{
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    border-radius: 1.5rem;
+    --tw-bg-opacity: 1;
+    /*background-color: rgba(38, 15, 206, var(--tw-bg-opacity));*/
+    background-color: white;
+
+}
+.btn-signup {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-transform: uppercase;
+    --tw-text-opacity: 1;
+    color: blue;
+}
+.btn-signup{
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    border-radius: 1.5rem;
+    --tw-bg-opacity: 1;
+    /*background-color: rgba(38, 15, 206, var(--tw-bg-opacity));*/
+    background-color: white;
+
+}
